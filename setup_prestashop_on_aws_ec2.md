@@ -152,8 +152,6 @@ Click next to continue installation
 
  ![Alt text](images/wave-web-dl-instal-folder.PNG)
 
-Congratulations! your prestashop website is completely installed and fully operational.
-
 # STEP 3 — Enable Website
 
 Logon to backend with your earlier created email address and password 
@@ -170,6 +168,19 @@ Go to shop parameters => Maintenance => Enable store
 ![Alt text](images/wave-web-admin-backend.PNG)
 
 # STEP 4— Simulate account creation and data persistence 
+
+Now your prestashop website should be enabled, create new user and confirm data persistence.
+
+![Alt text](images/wave-create-account.png)
+
+![Alt text](images/wave-acc-login.png)
+
+![Alt text](images/wave-login-success.png)
+
+Congratulations! your prestashop website is completely installed and fully operational. Cheers!!!
+
+
+
 
 
 
