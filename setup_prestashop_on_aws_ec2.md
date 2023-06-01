@@ -25,6 +25,7 @@ Create a keypair and security group to allow ssh into instance. Ec2 instance con
 ![Alt text](images/wave-sg.PNG)
 
 Ssh into EC2 instance with your Ec2 public ip address
+
 ![Alt text](images/wavekey-ssh.PNG)
 
 
