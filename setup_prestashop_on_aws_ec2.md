@@ -53,9 +53,11 @@ sudo apt-get install -y php7.3 php7.3-cli php7.3-zip php7.3-json php7.3-common p
 We would be using amazon RDS to host our database tier.
 
 Create Mysql RDS instance. 
+
 ![Alt text](images/wave-mysql.PNG)
 
 Select free tier 
+
 ![Alt text](images/wave-mysql-freetier.PNG)
 
 Ensure to save the db name, username, password in a document on your laptop.  It is required to complete prestashop installation.  Reduce storage to 20gb  since free tier is eligible for only 30gb storage
