@@ -75,7 +75,7 @@ create MYSQL RDS security group to only allow access from Ec2 instance security 
 
 # STEP 2 — Prestashop download and setup.
 
-Change directory and download and unzip prestashop
+Change directory, download and unzip prestashop
 
 ```
 Cd /var/www/
